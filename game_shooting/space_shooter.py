@@ -1,6 +1,6 @@
 """
 GALAXY ASSAULT - 2D Space Shooter
-Python + Pygame. No external image or sound assets required.
+
 
 Install:
     python -m pip install pygame
